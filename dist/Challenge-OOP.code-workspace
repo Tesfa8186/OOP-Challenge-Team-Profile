@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Challenge-OOP"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Tutor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OOP-Challenge"
+	}
+}
