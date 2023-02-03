@@ -1,12 +1,14 @@
-const inquirer = require("inquirer");
+// node and lib modules
+ const inquirer = require("inquirer");
 const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer")
 const Intern = require("./lib/Intern");
 const fs = require("fs");
 
-
+// Array for answers to questions
 const myEmployees = [];
 
+// Array object questions asked in CLI to users
 function createManager() {
     inquirer.prompt([
         {
