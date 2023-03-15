@@ -37,7 +37,7 @@ Test will run with jest using `npm run test`.
 
 - [Github Repository Link](https://github.com/Tesfa8186/OOP-Challenge-Team-Profile)
 
-- [Walkthrough Video Link (Video available in assets folder)](https://drive.google.com/file/d/140clqywmlK4PziZQ3Mbza-kBIz4BInpj/view)
+- [Walkthrough Video Link (Video & other links available in assets folder)](https://drive.google.com/file/d/140clqywmlK4PziZQ3Mbza-kBIz4BInpj/view)
 
 - [Generated Home Page Demo](./assets/Generated-Team-Homepage.png)
 
